@@ -1,0 +1,12 @@
+mutation{
+  registerUser(
+      name: "Cyrille",
+      email: "cyrille@darkmira.com"
+  ) {
+    id,
+    name,
+    email,
+    role,
+    created_at
+  }
+}

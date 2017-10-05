@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "user": {
+            "id": "57",
+            "name": "Mad Max",
+            "email": "madmax@darkmira.com",
+            "role": "WRITER",
+            "created_at": "1495928417"
+        },
+        "media": {
+            "id": "20",
+            "type": "image/jpeg",
+            "filename": "friboi.jpg",
+            "size": "204800",
+            "url": "http://news/media/65815736d29cc094a2d784c338066029"
+        },
+        "title": "Joesley rompe com Tony Ramos",
+        "excerpt": "Mussum, Ipsum, cacilds",
+        "text": "Mussum, Ipsum, cacilds vidis litro abertis. Paisis, filhis, espiritis santis. ",
+        "created_at": "1495928417",
+        "status": "PUBLISHED",
+        "comments": [
+            {
+                "id": "25",
+                "text": "Não sou faixa preta cumpadi, sou preto inteiris, inteiris.",
+                "created_at": "1495928417",
+                "author": {
+                    "name": "Nissim Ourfali",
+                    "email": "nissimourfali@darkmira.com"
+                }
+            }
+        ]
+    }
+]

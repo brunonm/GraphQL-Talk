@@ -1,0 +1,19 @@
+
+
+query {
+    news(id: 1) {
+        title, text, created_at,
+        media {
+            url
+       },
+       user {
+           name
+       },
+       comments {
+           text,
+           author {
+               name
+           }
+       }
+   }
+}

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "25",
+        "news_id": "1",
+        "text": "Não sou faixa preta cumpadi, sou preto inteiris, inteiris.",
+        "created_at": "1495928417",
+        "author": {
+            "name": "Nissim Ourfali",
+            "email": "nissimourfali@darkmira.com"
+        }
+    }
+    //... a lot of comments
+]
